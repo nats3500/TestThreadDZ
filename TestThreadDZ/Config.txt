@@ -1,0 +1,7 @@
+10
+2
+D:\Testovaya_papka
+black
+text
+123
+321
